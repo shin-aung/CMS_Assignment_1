@@ -4,6 +4,7 @@
 
 **Learning Activities & Resources**
 
+
 During the process of constructing my Joomla website, I delved into a comprehensive YouTube tutorial for invaluable insights and a step-by-step guide (https://www.youtube.com/watch?v=h5VZwTLdgdM&list=PLQSbA0rrCrqHZxODzTYgAaCp_zYI3Aiug&index=3). 
 
 Additionally, I explored an entire playlist (https://www.youtube.com/@techruzz/playlists) to broaden my knowledge on website creation using Joomla.
@@ -16,11 +17,15 @@ It's worth noting that all the images featured on my website are ethically sourc
 
 I use the platform cloud access to host the Joomla website: https://www.cloudaccess.net
 
+
 **Estimated hours**
+
 
 For this website, it takes around 28 to 32 hours to complete. This includes the time spent on design and planning, the learning curve associated with new tools like Joomla, customization of templates and extensions, and the creation of engaging content. Integrating features such as Smart Slider and Phoca Gallery, along with thorough testing, debugging, and optimization for performance and SEO, all contribute to this timeframe. The individual complexity of the website, my proficiency, and unexpected challenges also play a role. Allocating extra time for testing and addressing potential issues is crucial to ensure the final website is polished and fully functional.
 
+
 **Content Insight**
+
 
 I'm thrilled to invite you into our vibrant crafting community, where creativity knows no bounds. As you navigate through our website, you'll discover a haven of inspiration, DIY projects, and a supportive community that celebrates the joy of crafting.
 
@@ -31,6 +36,10 @@ Our community is more than just a virtual space; it's a gathering of like-minded
 Feeling stuck or looking for a burst of inspiration? Explore our Inspiration Hub, where the latest trends and innovative ideas come to life. Immerse yourself in the rich palette of creativity, and let each project be a brushstroke on your personal canvas.
 
 As you navigate through our website, you'll notice three icons guiding your way. The crafting brush beckons you to unleash your creativity, the community connection symbolizes the bonds we create together, and the inspiration palette leads you to a world of endless ideas.
+
+
+**Anaystic using SMART rules**
+
 
 When trying to look the content insight through SMART rules,
 
@@ -49,7 +58,9 @@ Connecting with you goes beyond the projects we feature. Our blog is a window in
 Time-bound:
 Just like the dynamic world of fashion, our website is always evolving. Staying current with crafting trends, user preferences, and industry happenings is a commitment we uphold. Regular updates to our blog, fresh project ideas, and a flexible approach keep us in sync with the ever-changing landscape of the crafting world.
 
+
 **Career/Employability/Learning Insights**
+
 
 Embarking on the journey of constructing my Joomla website was a valuable learning experience that significantly contributed to my employability in the digital realm. To enhance my skills, I immersed myself in a comprehensive YouTube tutorial (https://www.youtube.com/watch?v=h5VZwTLdgdM&list=PLQSbA0rrCrqHZxODzTYgAaCp_zYI3Aiug&index=3) and explored an entire playlist (https://www.youtube.com/@techruzz/playlists) dedicated to Joomla website creation.
 
@@ -61,13 +72,17 @@ Additionally, my adherence to ethical sourcing of images from Google Images refl
 
 In essence, the journey of constructing my Joomla website has not only broadened my technical skill set but has also provided me with valuable insights into project management, ethical considerations, and the dynamic nature of the digital landscape. These learnings are instrumental in enhancing my employability and contributing to my ongoing professional development.
 
+
 **Why cloud access to host Joomla website?**
 
+
 I use cloud access to host my Joomla website for a few good reasons. First off, it helps me a lot because I can change the resources my website needs easily. This means my website works well even when a lot of people are visiting. Also, I can work on and update my website from anywhere with the internet, which is super handy. Cloud hosting is good for keeping my website stable and running smoothly because it has backup plans and security features. It's like an extra layer of protection for my website's information. So, because of the convenience, flexibility, and safety features, I think cloud hosting is the right choice for my Joomla website.
+
 
 **WordPress Website**
 
 **Learning Activities & Resources**
+
 
 I made a WordPress website, and I learned a lot from a helpful YouTube tutorial that I watched (https://www.youtube.com/watch?v=LMVEzg82pnU&t=970s). I got some good tips and a step-by-step guide from it.
 
@@ -75,11 +90,15 @@ All the pictures on my website are from a place called Google Images (https://ww
 
 I use a place called Infinity Free to put my WordPress website on the internet: https://www.infinityfree.com.
 
+
 **Estimated Hours**
+
 
 It took me 18 hours to complete the Word Press. As a newcomer, understanding the platform's functionalities, exploring design options, and customizing features took time. Additionally, I wanted to ensure a polished and user-friendly site, so I delved into various tutorials and experimented with different elements. The 18 hours spent were a valuable investment in acquiring the skills needed to create a website that meets my vision and objectives.
 
+
 **Content Insight**
+
 
 Welcome to my WordPress site! Building this platform took me about 18 hours, and I'm thrilled to share the journey with you. As a newcomer, navigating WordPress was a learning experience, but the result is a website that reflects my vision and passion.
 
@@ -91,7 +110,11 @@ With categories ranging from Performance Gear to Athleisure Essentials, each pro
 
 Whether you're shopping for Sprint Shorts or PrecisionFit Performance Shirts, each item is designed for optimal comfort and style. Don't miss our exclusive shoe collections – StrideEssence for women and PinnacleFlex for men – blending performance and fashion seamlessly.
 
-When looking my website through the SMART rules.
+
+**Anaystic using SMART rules**
+
+
+When looking my website through the SMART rules,
 
 Specific: My goal is to enhance my WordPress website by implementing user-friendly features, refining the design elements, and incorporating original visual content.
 
@@ -103,7 +126,9 @@ Relevant: This goal aligns with my desire to create a polished and user-friendly
 
 Time-Bound: I plan to complete these enhancements within the next three months, tracking progress weekly and making necessary adjustments to achieve the desired 20% increase in user engagement by the end of the period.
 
+
 **Career/Employability/Learning Insights**
+
 
 Embarking on the journey of creating my WordPress website has been a significant learning experience. Through a helpful YouTube tutorial, I gained valuable insights and a step-by-step guide that equipped me with the skills needed to navigate and utilize the WordPress platform effectively.
 
@@ -113,8 +138,10 @@ Utilizing the platform Infinity Free to host my WordPress website on the interne
 
 In terms of time investment, dedicating 18 hours to complete the WordPress website may seem extensive, but as a newcomer, every minute was a valuable investment. Understanding functionalities, experimenting with design options, and ensuring a polished, user-friendly site were crucial aspects of this learning journey.
 
-This experience has not only expanded my technical skills in website development but has also provided insights into content creation, ethical sourcing, and online presence management. As I continue to explore and enhance my website, I'm confident that the skills acquired will contribute positively to my career and employability, reflecting a commitment to continuous learning and adaptability in the ever-evolving digital landscape. If you have any questions about my journey or would like to know more about the process, feel free to ask!
+This experience has not only expanded my technical skills in website development but has also provided insights into content creation, ethical sourcing, and online presence management. As I continue to explore and enhance my website, I'm confident that the skills acquired will contribute positively to my career and employability, reflecting a commitment to continuous learning and adaptability in the ever-evolving digital landscape. If you have any questions about my journey or would like to know more about the process, feel free to ask.
+
 
 **Why do I use infinity free although it is not a secure platform to host the website?**
+
 
 I choose to use Infinity Free to host my website, even though it might not be the most secure platform, because it's free and works okay for what I need. Since I'm still learning about websites, I wanted to start with something simple and not spend money on hosting right away. I know it might not be the most secure, but for now, it's a good way for me to practice and see how everything works without worrying too much about the cost. As I get more comfortable and learn more, I might consider moving to a more secure platform in the future.
