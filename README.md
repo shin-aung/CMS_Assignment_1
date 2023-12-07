@@ -96,7 +96,7 @@ Although infinity free is not a secure website, I watch this video to make it se
 **Estimated Hours**
 
 
-It took me 24 hours to complete the Word Press. As a newcomer, understanding the platform's functionalities, exploring design options, and customizing features took time. Additionally, I wanted to ensure a polished and user-friendly site, so I delved into various tutorials and experimented with different elements. The 18 hours spent were a valuable investment in acquiring the skills needed to create a website that meets my vision and objectives.
+It took me 24 hours to complete the Word Press. As a newcomer, understanding the platform's functionalities, exploring design options, and customizing features took time. Additionally, I wanted to ensure a polished and user-friendly site, so I delved into various tutorials and experimented with different elements. The 24 hours spent were a valuable investment in acquiring the skills needed to create a website that meets my vision and objectives.
 
 
 **Content Insight**
